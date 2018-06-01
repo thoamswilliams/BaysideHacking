@@ -1,2 +1,4 @@
-These scripts display a message in the form of " (filename) has shut down your computer" 
-and only work in 6th period(1:01 to 1:47).
+These scripts display a message in the form of " (filename) has shut down your computer"
+after a random delay when the s key is pressedand only work in 6th period(1:01 to 1:47).
+Standard files have timers of 10-20 minutes between trigger and shutdown, and the 
+"Short" files have timers of 3 to 6 minutes
