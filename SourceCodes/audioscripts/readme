@@ -1,2 +1,5 @@
 These scripts are self explanatory, play an assortment of 
-sounds or high-frequency tones
+sounds or high-frequency tones. TH plays mp3 files
+and volumeup uses keyboard module to max out the 
+volume on most computers, including those from 
+STEM class
